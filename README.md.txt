@@ -2,6 +2,9 @@ DESAFIO QA BEEDOO 2025
 
 Módulo: Gestão de Cursos
 
+Link da planilha: https://docs.google.com/spreadsheets/d/1N2qkjUVtclmPPb3gYjZW0G9aKinUEsneygJ6ojYTyjA/edit?gid=0#gid=0
+Link das evidências: https://www.loom.com/share/8dc6e9edec954c38b22e4fb97976f0a6
+
 Decisões para criação das User Stories
 
 - Analisei a funcionalidade de criação e exclusão de cursos
@@ -163,9 +166,6 @@ Preencher campo "Descrição": "Aprenda estratégias de marketing digital"
 No campo "Tipo Curso", selecionar opção "Online"
 
 
-Clicar cadastrar curso
-
-Aparecer mensagem de cadastro realizado com sucesso
 
 
 
